@@ -4,3 +4,11 @@
 	font-size:22px;
 	font-weight:900;
 }
+.run,tr,td,th{
+	border:2px solid black;
+	padding:1px;
+	border-collapse:collapse;
+}
+tr:nth-child(01){
+	background: #f2f2f2;
+}
